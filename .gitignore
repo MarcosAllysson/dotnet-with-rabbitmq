@@ -452,3 +452,10 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+Receive/.vscode
+Receive/bin
+Receive/obj
+Send/.vscode
+Send/bin
+Send/obj
+
